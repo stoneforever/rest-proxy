@@ -1,0 +1,54 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+test-output/
+
+# IntelliJ project files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Mac
+.DS_Store
+
+# Others
+Temp/
+obj/
+classes/
+generated/
+bin/
+*.ldb
+_ReSharper*/
+*.eml
+out/
+*.user
+*.resx
+nbproject/
+target/
+build/
+build.xml
+Thumbs.db
+manifest.mf
+Out/
+*.lic
+Data/*Out*
+*_out.*
+/dist/
+
+#自定义，无用的文件夹内容
+/config/
+/logs/
+/file_uploader_chunks/
+/ee-business/target/
+/ee-business/config/
+/ee-business/logs/
+/ee-business/file_uploader_chunks/
+/ee-test/target/
+/ee-test/config/
+/ee-test/logs/
+/ee-test/file_uploader_chunks/
+/ee-base/target/
+/ee-core/target/
+/ee-aggregate-db/target/

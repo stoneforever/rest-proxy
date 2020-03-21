@@ -5,13 +5,13 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.stone1234</groupId>
+    <groupId>com.github.stoneforever</groupId>
     <artifactId>rest-proxy</artifactId>
     <packaging>jar</packaging>
     <version>1.1.2</version>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Spring Rest Enhancement</description>
-    <url>https://github.com/stone1234/EcoRestProxy.git</url>
+    <url>https://github.com/stoneforever/EcoRestProxy.git</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -36,9 +36,9 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:https://github.com/stone1234/EcoRestProxy.git</connection>
-        <developerConnection>scm:git:https://github.com/stone1234/EcoRestProxy.git</developerConnection>
-        <url>https://github.com/stone1234/EcoRestProxy/tree/master</url>
+        <connection>scm:git:https://github.com/stoneforever/EcoRestProxy.git</connection>
+        <developerConnection>scm:git:https://github.com/stoneforever/EcoRestProxy.git</developerConnection>
+        <url>https://github.com/stoneforever/EcoRestProxy/tree/master</url>
     </scm>
 
     <repositories>

@@ -5,7 +5,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.stoneforever</groupId>
+    <groupId>com.flowyun</groupId>
     <artifactId>rest-proxy</artifactId>
     <packaging>jar</packaging>
     <version>1.1.2</version>
